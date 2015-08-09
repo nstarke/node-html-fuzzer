@@ -1,0 +1,16 @@
+{
+  "name": "node-html-fuzzer",
+  "version": "0.0.1",
+  "description": "An HTML5 fuzzer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Infosec",
+    "Fuzzer",
+    "Fuzzing"
+  ],
+  "author": "Nicholas Starke",
+  "license": "MIT"
+}

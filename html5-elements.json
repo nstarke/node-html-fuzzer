@@ -1,0 +1,547 @@
+[
+    {
+        "name": "a",
+        "start": "<a>",
+        "end": "</a>"
+    },
+    {
+        "name": "abbr",
+        "start": "<abbr>",
+        "end": "</abbr>"
+    },
+    {
+        "name": "address",
+        "start": "<address>",
+        "end": "</address>"
+    },
+    {
+        "name": "area",
+        "start": "<area>",
+        "end": null
+    },
+    {
+        "name": "article",
+        "start": "<article>",
+        "end": "</article>"
+    },
+    {
+        "name": "aside",
+        "start": "<aside>",
+        "end": "</aside>"
+    },
+    {
+        "name": "audio",
+        "start": "<audio>",
+        "end": "</audio"
+    },
+    {
+        "name": "b",
+        "start": "<b>",
+        "end": "</b>"
+    },
+    {
+        "name": "base",
+        "start": "<base>",
+        "end": null
+    },
+    {
+        "name": "bdi",
+        "start": "<bdi>",
+        "end": "</bdi>"
+    },
+    {
+        "name": "bdo",
+        "start": "<bdo>",
+        "end": "</bdo>"
+    },
+    {
+        "name": "blockquote",
+        "start": "<blockquote>",
+        "end": "</blockquote>"
+    },
+    {
+        "name": "body",
+        "start": "<body>",
+        "end": "</body>"
+    },
+    {
+        "name": "br",
+        "start" : "<br>",
+        "end": null
+    },
+    {
+        "name": "button",
+        "start": "<button>",
+        "end": null
+    },
+    {
+        "name": "canvas",
+        "start": "<canvas>",
+        "end": "</canvas>"
+    },
+    {
+        "name": "caption",
+        "start": "<caption>",
+        "end": "</caption>"
+    },
+    {
+        "name": "cite",
+        "start": "<cite>",
+        "end": "</cite>"
+    },
+    {
+        "name": "code",
+        "start": "<code>",
+        "end": "</code"
+    },
+    {
+        "name": "col",
+        "start": "<col>",
+        "end": "</col>"
+    },
+    {
+        "name": "colgroup",
+        "start": "<colgroup>",
+        "end": "</colgroup>"
+    },
+    {
+        "name": "datalist",
+        "start": "<datalist>",
+        "end": "</datalist>"
+    },
+    {
+        "name": "dd",
+        "start": "<dd>",
+        "end": "</dd>"
+    },
+    {
+        "name": "del",
+        "start": "<del>",
+        "end": "</del>"
+    },
+    {
+        "name": "details",
+        "start": "<details>",
+        "end": "</details>"
+    },
+    {
+        "name": "dfn",
+        "start": "<dfn>",
+        "end": "</dfn>"
+    },
+    {
+        "name": "dialog",
+        "start": "<dialog>",
+        "end": "</dialog>"
+    },
+    {
+        "name": "div",
+        "start": "<div>",
+        "end": "</div>"
+    },
+    {
+        "name": "dl",
+        "start": "<dl>",
+        "end": "</dl>"
+    },
+    {
+        "name": "dt",
+        "start": "<dt>",
+        "end": "</dt>"
+    },
+    {
+        "name": "em",
+        "start": "<em>",
+        "end": "</em>"
+    },
+    {
+        "name": "embed",
+        "start": "<embed>",
+        "end": "</embed>"
+    },
+    {
+        "name": "fieldset",
+        "start": "<fieldset>",
+        "end": "</fieldset>"
+    },
+    {
+        "name": "figcaption",
+        "start": "<figcaption>",
+        "end": "</figcaption>"
+    },
+    {
+        "name": "figure",
+        "start": "<figure>",
+        "end": "</figure>"
+    },
+    {
+        "name": "footer",
+        "start": "<footer>",
+        "end": "</footer>"
+    },
+    {
+        "name": "form",
+        "start": "<form>",
+        "end": "</form>"
+    },
+    {
+        "name": "h1",
+        "start": "<h1>",
+        "end": "</h1>"
+    },
+    {
+        "name": "h2",
+        "start": "<h2>",
+        "end": "</h2>"
+    },
+    {
+        "name": "h3",
+        "start": "<h3>",
+        "end": "</h3>"
+    },
+    {
+        "name": "h4",
+        "start": "<h4>",
+        "end": "</h4>"
+    },
+    {
+        "name": "h5",
+        "start": "<h5>",
+        "end": "</h5>"
+    },
+    {
+        "name": "h6",
+        "start": "<h6>",
+        "end": "</h6>"
+    },
+    {
+        "name": "head",
+        "start": "<head>",
+        "end": "</head>"
+    },
+    {
+        "name": "header",
+        "start": "<header>",
+        "end": "</header>"
+    },
+    {
+        "name": "hr",
+        "start": "<hr>",
+        "end": "</hr>"
+    },
+    {
+        "name": "html",
+        "start": "<html>",
+        "end": "</html>"
+    },
+    {
+        "name": "i",
+        "start": "<i>",
+        "end": "</i>"
+    },
+    {
+        "name": "iframe",
+        "start": "<iframe>",
+        "end": "</iframe>"
+    },
+    {
+        "name": "img",
+        "start": "<img>",
+        "end": null
+    },
+    {
+        "name": "input",
+        "start": "<input>",
+        "end": null
+    },
+    {
+        "name": "ins",
+        "start": "<ins>",
+        "end": "</ins>"
+    },
+    {
+        "name": "kbd",
+        "start": "<kbd>",
+        "end": "</kbd>"
+    },
+    {
+        "name": "keygen",
+        "start": "<keygen>",
+        "end": null
+    },
+    {
+        "name": "label",
+        "start": "<label",
+        "end": "</label>"
+    },
+    {
+        "name": "legend",
+        "start": "<legend>",
+        "end": "</legend>"
+    },
+    {
+        "name": "li",
+        "start": "<li>",
+        "end": "</li>"
+    },
+    {
+        "name": "link",
+        "start": "<link>",
+        "end": null
+    },
+    {
+        "name": "main",
+        "start": "<main>",
+        "end": "</main>"
+    },
+    {
+        "name": "map",
+        "start": "<map>",
+        "end": "</map>"
+    },
+    {
+        "name": "mark",
+        "start": "<mark>",
+        "end": "</mark>"
+    },
+    {
+        "name": "menu",
+        "start": "<menu>",
+        "end": "</menu>"
+    },
+    {
+        "name": "menuitem",
+        "start": "<menuitem>",
+        "end": "</menuitem>"
+    },
+    {
+        "name": "meta",
+        "start": "<meta>",
+        "end": null
+    },
+    {
+        "name": "meter",
+        "start": "<meter>",
+        "end": "</meter>"
+    },
+    {
+        "name": "nav",
+        "start": "<nav>",
+        "end": "</nav>"
+    },
+    {
+        "name": "noscript",
+        "start": "<noscript>",
+        "end": "</noscript>"
+    },
+    {
+        "name": "object",
+        "start": "<object>",
+        "end": "</object>"
+    },
+    {
+        "name": "ol",
+        "start": "<ol>",
+        "end": "</ol>"
+    },
+    {
+        "name": "optgroup",
+        "start": "<optgroup>",
+        "end": "</optgroup>"
+    },
+    {
+        "name": "option",
+        "start": "<option>",
+        "end": "</option>"
+    },
+    {
+        "name": "output",
+        "start": "<output>",
+        "end": "</output>"
+    },
+    {
+        "name": "p",
+        "start": "<p>",
+        "end": "</p>"
+    },
+    {
+        "name": "param",
+        "start": "<param>",
+        "end": "</param>"
+    },
+    {
+        "name": "pre",
+        "start": "<pre>",
+        "end": "</pre>"
+    },
+    {
+        "name": "progress",
+        "start": "<progress>",
+        "end": "</progress>"
+    },
+    {
+        "name": "q",
+        "start": "<q>",
+        "end": "</q>"
+    },
+    {
+        "name": "rp",
+        "start": "<rp>",
+        "end": "</rp>"
+    },
+    {
+        "name": "rt",
+        "start": "<rt>",
+        "end": "</rt>"
+    },
+    {
+        "name": "ruby",
+        "start": "<ruby>",
+        "end": "</ruby>"
+    },
+    {
+        "name": "s",
+        "start": "<s>",
+        "end": "</s>"
+    },
+    {
+        "name": "samp",
+        "start": "<samp>",
+        "end": "</samp>"
+    },
+    {
+        "name": "script",
+        "start": "<script>",
+        "end": "</script>"
+    },
+    {
+        "name": "section",
+        "start": "<section>",
+        "end": "</section>"
+    },
+    {
+        "name": "select",
+        "start": "<select>",
+        "end": "</select>"
+    },
+    {
+        "name": "small",
+        "start": "<small>",
+        "end": "</small>"
+    },
+    {
+        "name": "source",
+        "start": "<source>",
+        "end": null
+    },
+    {
+        "name": "span",
+        "start": "<span>",
+        "end": "</span>"
+    },
+    {
+        "name": "strong",
+        "start": "<strong>",
+        "end": "</strong>"
+    },
+    {
+        "name": "style",
+        "start": "<style>",
+        "end": "</style>"
+    },
+    {
+        "name": "sub",
+        "start": "<sub>",
+        "end": "</sub>"
+    },
+    {
+        "name": "summary",
+        "start": "<summary>",
+        "end": "</summary>"
+    },
+    {
+        "name": "sup",
+        "start": "<sup>",
+        "end": "</sup>"
+    },
+    {
+        "name": "table",
+        "start": "<table>",
+        "end": "</table>"
+    },
+    {
+        "name": "tbody",
+        "start": "<tbody>",
+        "end": "</tbody>"
+    },
+    {
+        "name": "td",
+        "start": "<td>",
+        "end": "</td>"
+    },
+    {
+        "name": "textarea",
+        "start": "<textarea>",
+        "end": "</textarea>"
+    },
+    {
+        "name": "tfoot",
+        "start": "<tfoot>",
+        "end": "</tfoot>"
+    },
+    {
+        "name": "th",
+        "start": "<th>",
+        "end": "</th>"
+    },
+    {
+        "name": "thead",
+        "start": "<thead>",
+        "end": "</thead>"
+    },
+    {
+        "name": "time",
+        "start": "<time>",
+        "end": "</time>"
+    },
+    {
+        "name": "title",
+        "start": "<title>",
+        "end": "</title>"
+    },
+    {
+        "name": "tr",
+        "start": "<tr>",
+        "end": "</tr>"
+    },
+    {
+        "name": "track",
+        "start": "<track>",
+        "end": null
+    },
+    {
+        "name": "u",
+        "start": "<u>",
+        "end": "</u>"
+    },
+    {
+        "name": "ul",
+        "start": "<ul>",
+        "end": "</ul>"
+    },
+    {
+        "name": "var",
+        "start": "<var>",
+        "end": "</var>"
+    },
+    {
+        "name": "video",
+        "start": "<video>",
+        "end": "</video>"
+    },
+    {
+        "name": "wbr",
+        "start": "<wbr>",
+        "end": "</wbr>"
+    }
+]
